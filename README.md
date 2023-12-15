@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Martinez</h1>
 <h3 align="center">I am a passionate FullStack developer with experience building web pages with skills in HTML, CSS, JavaScript and a variety of frameworks such as Nexts.js and Vue.js My focus is on designing and developing websites that are not only visually stunning, but also highly functional and easy to navigate.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgematinez&label=Profile%20views&color=0e75b6&style=flat" alt="jorgematinez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgemartinezgarcia&label=Profile%20views&color=0e75b6&style=flat" alt="jorgematinez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgematinez" alt="jorgematinez" /></a> </p>
 
